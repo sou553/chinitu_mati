@@ -221,4 +221,5 @@ def main_loop():
         if check.matihai(list_a) != [0]:
             main(list_a)
 
-main_loop()
+if __name__ == "__main__":
+    main_loop()
