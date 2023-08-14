@@ -6,7 +6,8 @@
 * pygame 2.5.0
 
 # Installation
-
 ```bash
 pip install pygame
 ```
+# Reference
+https://mj-king.net/sozai/
