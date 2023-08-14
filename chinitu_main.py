@@ -126,7 +126,7 @@ def main(tehai):
     (x, y) = (w/2, h/2)
     pygame.display.set_mode((w, h), 0, 32)
     screen = pygame.display.get_surface()
-    pygame.display.set_caption("Pygame Test")
+    pygame.display.set_caption("Main Page")
     ans_button = pygame.image.load("gif/ans.png").convert_alpha()
     rect_ans_button = ans_button.get_rect()
     rect_ans_button.center = (400, 350)
