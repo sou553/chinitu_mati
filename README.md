@@ -1,3 +1,3 @@
 sample
-![gif](https://github.com/sou553/chinitu_mati/new/main/test/test.gif)
+![gif](https://github.com/sou553/chinitu_mati/blob/main/test/test.gif)
 
